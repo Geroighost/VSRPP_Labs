@@ -1,0 +1,9 @@
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\bin\Debug\Лаба2.exe.config
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\bin\Debug\Лаба2.exe
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\bin\Debug\Лаба2.pdb
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\obj\Debug\Лаба2.csprojResolveAssemblyReference.cache
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\obj\Debug\Лаба2.Form1.resources
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\obj\Debug\Лаба2.Properties.Resources.resources
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\obj\Debug\Лаба2.csproj.GenerateResource.Cache
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\obj\Debug\Лаба2.exe
+E:\6 сем (текущий)\ВСРПП\Лаба2\Лаба2\obj\Debug\Лаба2.pdb

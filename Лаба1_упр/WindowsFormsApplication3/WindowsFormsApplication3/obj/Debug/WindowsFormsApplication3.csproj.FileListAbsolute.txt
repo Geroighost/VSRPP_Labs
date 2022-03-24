@@ -1,0 +1,15 @@
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_Lab_1.resources
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Пользователь2\Desktop\Лукашков А.В\ВСРПП\лб2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\6 сем (текущий)\ВСРПП\Лаба1_упр\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\6 сем (текущий)\ВСРПП\Лаба1_упр\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\6 сем (текущий)\ВСРПП\Лаба1_упр\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\6 сем (текущий)\ВСРПП\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\6 сем (текущий)\ВСРПП\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\6 сем (текущий)\ВСРПП\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

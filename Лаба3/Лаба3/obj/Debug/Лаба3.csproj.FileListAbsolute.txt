@@ -1,0 +1,9 @@
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\bin\Debug\Лаба3.exe.config
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\bin\Debug\Лаба3.exe
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\bin\Debug\Лаба3.pdb
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\obj\Debug\Лаба3.csprojResolveAssemblyReference.cache
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\obj\Debug\Лаба3.Form1.resources
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\obj\Debug\Лаба3.Properties.Resources.resources
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\obj\Debug\Лаба3.csproj.GenerateResource.Cache
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\obj\Debug\Лаба3.exe
+E:\6 сем (текущий)\ВСРПП\Лаба3\Лаба3\obj\Debug\Лаба3.pdb
